@@ -1,2 +1,4 @@
 print("Hello!;")
 print("Hello! My Dear Friend;")
+print("Hello! My Hate Enemy")
+print("Hello! рад видеть")
